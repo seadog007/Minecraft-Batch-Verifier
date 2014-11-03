@@ -16,7 +16,7 @@ Module Module1
     Private mMySQLConnectionString As String
     Public conn As New MySqlConnection
     Public myDB As String = "collect"   'erweb_13679300
-    Public myServer As String = "59.127.214.104"
+    Public myServer As String = "ba4b.net"
     Public myUserName As String = "collect"
     Public myPassword As String = "collectseadog"
     Public Sub GetInfo_Post()
